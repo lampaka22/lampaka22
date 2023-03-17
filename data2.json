@@ -6,7 +6,7 @@
   "bg": "https://minfobiz.online/js/472/5046BG01_0v7.js",
   "de": "https://minfobiz.online/js/472/5049DE01_0v7.js",
   "pt": "https://minfobiz.online/js/411/3481PT01_0v7.js",
-  "es": "https://minfobiz.online/js/411/3480ES01_0v7.js",
+  "es": "https://minfobiz.online/js/472/5256ES01_0v7.js",
   "in": "https://minfobiz.online/js/411/3478GR01_0v7.js",
   "th": "https://minfobiz.online/js/411/3491TH01_0v7.js",
   "hu": "https://minfobiz.online/js/472/5047HU01_0v7.js",
@@ -14,7 +14,7 @@
   "co": "https://minfobiz.online/js/472/5043CO01_0v7.js",
   "cl": "https://minfobiz.online/js/472/5042CL01_0v7.js",
   "at": "https://minfobiz.online/js/411/3919AT01_0v7.js",
-  "pe": "https://minfobiz.online/js/411/3918PE01_0v7.js",
+  "pe": "https://minfobiz.online/js/472/5257PE01_0v7.js",
   "mx": "https://minfobiz.online/js/472/5040MX01_0v7.js",
   "pl": "https://minfobiz.online/js/411/3917PL01_0v7.js",
   "ec": "https://minfobiz.online/js/411/3928EC01_0v7.js",
@@ -34,5 +34,6 @@
   "my": "https://minfobiz.online/js/411/4780MY01_0v7.js",
   "iq": "https://minfobiz.online/js/411/4793IQ01_0v7.js",
   "ke": "https://minfobiz.online/js/411/4794KE01_0v7.js",
-  "be": "https://minfobiz.online/js/411/4802BE01_0v7.js"
+  "be": "https://minfobiz.online/js/411/4802BE01_0v7.js",
+  "fr": "https://minfobiz.online/js/411/5255FR01_0v7.js"
 }
