@@ -35,5 +35,8 @@
   "iq": "https://minfobiz.online/js/411/4793IQ01_0v7.js",
   "ke": "https://minfobiz.online/js/411/4794KE01_0v7.js",
   "be": "https://minfobiz.online/js/411/4802BE01_0v7.js",
-  "fr": "https://minfobiz.online/js/411/5255FR01_0v7.js"
+  "fr": "https://minfobiz.online/js/411/5255FR01_0v7.js",
+  "mx_adult": "https://minfobiz.online/js/411/5313MX01_0v7.js",
+  "mx_giper": "https://minfobiz.online/js/411/5314MX01_0v7.js",
+  "mx_joints": "https://minfobiz.online/js/411/5315MX01_0v7.js"
 }
